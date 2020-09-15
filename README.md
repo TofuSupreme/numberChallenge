@@ -1,3 +1,3 @@
 # numberChallengeBeta
-Number game - JS, HTML, CSS
+Number game 
 //A very barebones HW assignment 
